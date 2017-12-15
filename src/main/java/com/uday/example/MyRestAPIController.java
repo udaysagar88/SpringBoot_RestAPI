@@ -1,3 +1,5 @@
+//Author Uday
+
 package com.uday.example;
 
 import java.util.List;
@@ -14,7 +16,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.util.UriComponentsBuilder;
-//Added by Uday
+
+
 @RestController
 @RequestMapping("/api")
 public class MyRestAPIController {
